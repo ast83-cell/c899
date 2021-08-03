@@ -1,0 +1,19 @@
+body{
+
+    background-image: url("download.jpg");
+    border-style: ridge;
+    border-width: 10px;
+    border-color: orange;
+
+}
+.login_div1 , .login_div2
+{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#yas{
+    color: white;
+}
